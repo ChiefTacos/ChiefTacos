@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...javascript and html/css
-- 📫 How to reach me ...snapchat = shlongfart
+- 📫 How to reach me ...snapchat = murrayxz
+- 
 
 <!---
 ChiefTacos/ChiefTacos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
